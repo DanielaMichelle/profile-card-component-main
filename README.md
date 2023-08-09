@@ -11,12 +11,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![](./screenshot/desktop.png)
-![](./screenshot/mobile2.png)
+![](./screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/DanielaMichelle/profile-card-component-main
+- Live Site URL: https://danielamichelle.github.io/profile-card-component-main/ 
 
 ### Built with
 
